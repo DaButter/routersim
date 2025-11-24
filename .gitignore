@@ -1,0 +1,4 @@
+*.o
+obj/
+router_sim
+*.log
